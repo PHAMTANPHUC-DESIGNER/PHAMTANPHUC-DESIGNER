@@ -20,7 +20,7 @@ namespace PTP
             string Gender = "Male";
             string Address = "An nhơn, Bình Định, Việt Nam";
             string University = "Trường Cao Đẳng Thực Hành FPT POLYTECHNIC";
-            string Skills = "PSD, Ai, Pr, Ae, Maya, 3Ds Max, Cinema 4D, XD";
+            string Skills = "Ps, Ai, Pr, Ae, Maya, 3Ds Max, Cinema 4D, XD";
         }
     }
 }
@@ -56,51 +56,48 @@ namespace PTP
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-		<span>PSD</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+		<span>Ps</span><br><br><br>
+		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
-		<span>AI</span><br><br><br>
-		<img height="64px" src="https://logoaz.net/wp-content/uploads/2019/02/phan-mem-thiet-ke-do-hoa-Adobe-Illustrator.png">
+		<span>Ai</span><br><br><br>
+		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
-		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+		<span>Pr</span><br><br><br>
+		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg">
 	 </a>
       </td>
 	<td width="20%" align="center">
-		<span>𝗗𝗮𝗿𝘁</span><br><br><br>
-		<img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+		<span>Ae</span><br><br><br>
+		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg">
 		</a>
       </td>
       <td width="20%" align="center">
-		<span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+		<span>Maya</span><br><br><br>
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/maya-2017.svg">
 	 </a>
       </td>
     </tr>
     <tr valign="top">
 	<td width="20%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span>3Ds Max</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 		</a>
       </td>
 	<td width="20%" align="center">
-		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
+        <span>Cinema 4D</span><br><br><br>
+        <img height="64px" src="https://fv9-4.failiem.lv/thumb_show.php?i=asnfxf3ta&view">
 		</a>
       </td>
       <td width="20%" align="center">
-	      <a href="https://developer.android.com/docs">
         <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
 	      </a>
       </td>
       <td width="20%" align="center">
-	      <a href="https://git-scm.com/doc">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 	      </a>
