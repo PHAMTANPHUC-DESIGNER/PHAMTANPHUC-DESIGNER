@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/PHAMTANPHUC-DESIGNER">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="PTP">
+	<img src="https://files.fm/thumb_show.php?i=v3wx2y72t" width = "200" alt="PTP">
 	</a>
 </p>
 
