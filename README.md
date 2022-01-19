@@ -1,8 +1,8 @@
-# <p align="center">𝓣𝓻𝓪̂̀𝓷 𝓝𝓰𝓸̣𝓬 𝓣𝓲𝓮̂́𝓷</p>
+# <p align="center">PHAMTANPHUC-DESIGNER</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<a href="https://github.com/PHAMTANPHUC-DESIGNER">
+	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="PTP">
 	</a>
 </p>
 
@@ -11,17 +11,16 @@
 ```C#
 namespace TNT
 {
-    class ngoctienTNT
+    class PHAMTANPHUC-DESIGNER
     {
         static void Main(string[] args)
         {
-            string Name = "Trần Ngọc Tiến";
-            string Age = "2002";
+            string Name = "Phạm Tấn Phúc";
+            string Age = "2001";
             string Gender = "Male";
-            string Address = "Khánh Hòa, Việt Nam";
-            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
-            string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+            string Address = "An nhơn, Bình Định, Việt Nam";
+            string University = "Trường Cao Đẳng Thực Hành FPT POLYTECHNIC";
+            string Skills = "Ps, Ai, Pr, Ae, Maya, 3Ds Max, Cinema 4D, XD";
         }
     }
 }
@@ -30,35 +29,23 @@ namespace TNT
 ## <p align="center">You can reach me at 🌹</p>
 
 <p align="center">
-  <a href="https://www.facebook.com/ngoctien.TNT">
+  <a href="https://www.facebook.com/pham.phuctan.7">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
 	
-  <a href="https://github.com/ngoctienTNT">
+  <a href="https://github.com/PHAMTANPHUC-DESIGNER">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
-  <a href="https://dev.to/ngoctientnt">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
-  </a>
-	
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
+  <a href="https://www.behance.net/tnphcphm">
+    <img src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="Behance" height="30" width="30">
   </a>
   
-  <a href="mailto:ngoctienTNT.vn@gmail.com">
+  <a href="mailto:phamtanphuc1621@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
   </a>
 	
-  <a href="https://www.instagram.com/ngoctien.tnt/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
-  </a>
-  
-  <a href="https://www.tiktok.com/@ngoctien_tnt/">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/c/ThienLongTNT">
+  <a href="https://www.youtube.com/channel/UCFVn7a4qhtpEQeTjgRMD87A">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
